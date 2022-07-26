@@ -1,0 +1,89 @@
+#background {
+    background: #B6E9EA;
+}
+
+.main-body {
+    border-radius: 10px;
+    border: 2px solid gray;
+    background: #EDF6E5;
+    padding: 30px;
+}
+
+.first-score {
+    background: #FFBCBD;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#reset-id{
+    background: #FFBCBD;
+    border-radius: 8px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.flex-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+#btn-guess,
+#btn-play-again,
+#btn-try-again {
+    background: #62AA36;
+    border-radius: 10px;
+    border: 2px solid #62AA36;
+    color: #fff;
+    font-weight: 700;
+}
+
+.form-group-new {
+    border-radius: 10px;
+    background: #C1AD95;
+    padding: 40px 30px 30px 30px;
+}
+
+.form-group-new .input-new {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.btn-info-color {
+    color: red;
+    font-weight: 700;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+#alert-win,
+#alert-loss {
+    display: none;
+}
+
+#new-1 {
+    font-size: 22px;
+}
+
+#new-2 {
+    font-size: 18px;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+.history{
+    background-color: skyblue;
+    margin-left: 15%;
+    width: 70%;
+    border-radius: 10px;
+}
+
+#footer {
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
+    text-align: center;
+  }
